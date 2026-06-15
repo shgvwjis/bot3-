@@ -8,7 +8,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQueryHandler, ChatMemberHandler, filters, ContextTypes
 
 # ========== 配置 ==========
-BOT_TOKEN = "8691475628:AAEaYTeiT0Ipb19CcvV7omxuoHKifXxOBqs"
+BOT_TOKEN = "8803073534:AAER_wlsGEp_TQ9keh3jMmLTYTLSHgmXuZU"
 SUPER_ADMIN_ID = 7002638062
 DATA_FILE = "bot_data.json"
 TEMP_DATA_EXPIRE_SECONDS = 300
